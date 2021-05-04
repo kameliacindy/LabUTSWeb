@@ -6,7 +6,8 @@ Untuk mockup / sketsa desain web nya dapat dilihat pada gambar di bawah ini. Dan
 
 Sumber dari mokcup / sketsa desain web:
 
-      https://freebiesbug.com/psd-freebies/piroll-design-template-agencypersonal-portfolio/
+https://freebiesbug.com/psd-freebies/piroll-design-template-agencypersonal-portfolio/
+
 
 Kemudian dari mockup desain web tersebut, kita akan mengonversi dari PSD ke HTML dan CSS.
 
